@@ -1,0 +1,8 @@
+app/Application.class
+app/config/SwaggerConfig.class
+app/controller/BookController.class
+app/LivenessEndpoint.class
+app/model/Book.class
+app/repository/BookRepository.class
+app/dto/BookDTO.class
+app/exception/BookNotFoundException.class

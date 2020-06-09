@@ -1,0 +1,8 @@
+/project/user-app/src/main/java/app/dto/BookDTO.java
+/project/user-app/src/main/java/app/controller/BookController.java
+/project/user-app/src/main/java/app/exception/BookNotFoundException.java
+/project/user-app/src/main/java/app/model/Book.java
+/project/user-app/src/main/java/app/repository/BookRepository.java
+/project/user-app/src/main/java/app/Application.java
+/project/user-app/src/main/java/app/config/SwaggerConfig.java
+/project/user-app/src/main/java/app/LivenessEndpoint.java

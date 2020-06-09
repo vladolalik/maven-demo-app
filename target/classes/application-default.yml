@@ -1,0 +1,34 @@
+# Path of the dispatcher servlet.
+spring:
+    profiles:
+      active: h2                              # profiles to activated, separated by comma (,)
+    jpa:
+      database: H2
+      show-sql: true   
+      properties:
+        hibernate:
+          connnection:
+            isolation: 2
+    h2:
+      console:
+        enabled: true                         # enabling H2 Console: /h2-console
+        settings:
+          web-allow-others: true
+    datasource:
+      platform: h2                            # database platform
+      url: jdbc:h2:mem:testdb                 # JDBC URL
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - liveness
+        - health
+        - prometheus        
+        - loggers
+
+#enable the actuator endpoints for health, metrics, and prometheus.
+opentracing:
+  jaeger:
+    log-spans: false
