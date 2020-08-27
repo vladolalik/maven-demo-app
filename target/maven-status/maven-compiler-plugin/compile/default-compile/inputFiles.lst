@@ -1,8 +1,8 @@
-/project/user-app/src/main/java/app/dto/BookDTO.java
-/project/user-app/src/main/java/app/controller/BookController.java
-/project/user-app/src/main/java/app/exception/BookNotFoundException.java
-/project/user-app/src/main/java/app/model/Book.java
-/project/user-app/src/main/java/app/repository/BookRepository.java
-/project/user-app/src/main/java/app/Application.java
-/project/user-app/src/main/java/app/config/SwaggerConfig.java
-/project/user-app/src/main/java/app/LivenessEndpoint.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/dto/BookDTO.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/config/SwaggerConfig.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/repository/BookRepository.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/Application.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/model/Book.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/LivenessEndpoint.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/exception/BookNotFoundException.java
+/Users/vladimirlalik/Documents/mvsr_modernization/oc-demo-apps/mvsr-api-oc-demo/src/main/java/app/controller/BookController.java
