@@ -1,4 +1,6 @@
 # Path of the dispatcher servlet.
+server:
+  port: 8081
 spring:
     profiles:
       active: h2                              # profiles to activated, separated by comma (,)
